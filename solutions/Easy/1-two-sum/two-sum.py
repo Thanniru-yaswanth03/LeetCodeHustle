@@ -3,10 +3,10 @@
 # Language: Python 3
 # Performance: 50 ms (beats 75%), 16.0 MB (beats 70%)
 # LeetCode: https://leetcode.com/problems/two-sum/
-# Synchronized via StreakForge at 2026-11-05T10:38:18.443Z
+# Synchronized via StreakForge at 2026-11-05T10:38:16.417Z
 
-1class Solution {
-2    public int[] twoSum(int[] nums, int target) {
-3        
-4    }
-5}
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        
+    }
+}
