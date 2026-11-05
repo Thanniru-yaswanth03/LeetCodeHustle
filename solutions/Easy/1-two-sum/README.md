@@ -8,14 +8,14 @@
 
 | Metric | Result | Benchmark |
 | :--- | :--- | :--- |
-| **Runtime** | **52 ms** | Beats **88.5%** of submissions |
-| **Memory** | **17.0 MB** | Beats **79.2%** of submissions |
+| **Runtime** | **50 ms** | Beats **75.0%** of submissions |
+| **Memory** | **16.0 MB** | Beats **70.0%** of submissions |
 
 ## 💻 Solution Details
 
 - **File**: [`two-sum.py`](./two-sum.py)
 - **Language**: `Python 3`
-- **Submitted**: `Thu, 05 Nov 2026 10:40:00 GMT`
+- **Submitted**: `Thu, 05 Nov 2026 10:46:07 GMT`
 
 ---
 *Synchronized automatically with verified authenticity by [StreakForge](https://github.com/streakforge).*
